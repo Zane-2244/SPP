@@ -1,0 +1,7 @@
+C:\Users\Zane\source\repos\PP2\PP2\bin\Debug\PP2.exe.config
+C:\Users\Zane\source\repos\PP2\PP2\bin\Debug\PP2.exe
+C:\Users\Zane\source\repos\PP2\PP2\bin\Debug\PP2.pdb
+C:\Users\Zane\source\repos\PP2\PP2\obj\Debug\PP2.csprojAssemblyReference.cache
+C:\Users\Zane\source\repos\PP2\PP2\obj\Debug\PP2.csproj.CoreCompileInputs.cache
+C:\Users\Zane\source\repos\PP2\PP2\obj\Debug\PP2.exe
+C:\Users\Zane\source\repos\PP2\PP2\obj\Debug\PP2.pdb

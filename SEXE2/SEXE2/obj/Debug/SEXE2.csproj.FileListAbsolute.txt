@@ -1,0 +1,7 @@
+C:\Users\Zane\source\repos\SEXE2\SEXE2\bin\Debug\SEXE2.exe.config
+C:\Users\Zane\source\repos\SEXE2\SEXE2\bin\Debug\SEXE2.exe
+C:\Users\Zane\source\repos\SEXE2\SEXE2\bin\Debug\SEXE2.pdb
+C:\Users\Zane\source\repos\SEXE2\SEXE2\obj\Debug\SEXE2.csprojAssemblyReference.cache
+C:\Users\Zane\source\repos\SEXE2\SEXE2\obj\Debug\SEXE2.csproj.CoreCompileInputs.cache
+C:\Users\Zane\source\repos\SEXE2\SEXE2\obj\Debug\SEXE2.exe
+C:\Users\Zane\source\repos\SEXE2\SEXE2\obj\Debug\SEXE2.pdb
